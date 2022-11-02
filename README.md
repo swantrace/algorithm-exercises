@@ -1,2 +1,2 @@
-# algorithm-exercises
+# algorithms-exercises
 Created with CodeSandbox
